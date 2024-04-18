@@ -1,4 +1,4 @@
-# new-app
+# news-app
 
 This is an app where users can find the news of different category.
 
