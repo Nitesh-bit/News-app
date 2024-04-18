@@ -1,4 +1,4 @@
-# useMovie App
+# new-app
 
 This is an app where users can find the news of different category.
 
